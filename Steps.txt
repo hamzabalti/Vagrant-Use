@@ -1,0 +1,4 @@
+Vagrant is IaC tool which we can use it to create multi VMs with a code automation
+
+1 Vagrant init name(os)/version(os) (initialize a folder)
+2 Vagrant up (lanch VMs)

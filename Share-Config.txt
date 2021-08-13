@@ -1,0 +1,9 @@
+Share plugin is used to let our environement shared betwwen with SSH access or URL access
+
+NGROK:  ngrok - tunnel local ports to public URLs and inspect traffic
+
+
+1- First use and install ngrok to let you access in public with NAT 
+2- install plugin vagrant plugin install vagrant-share
+3- vagrant share (by default for just http url)
+
